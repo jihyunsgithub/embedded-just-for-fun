@@ -170,6 +170,7 @@
 
 - 검증·문서 Commit SHA와 목적:
     `e9e46c4`: README, BUILD_ENV, TIMING 및 검증 Log 기록
+    `ecddd15` — `additional .md`
 
 - 변경 경로가 `submissions/week05/YOUR_GITHUB_ID/` 안인지 확인:
     제출 경로: submissions/week05/jihyunsgithub/
